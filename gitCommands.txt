@@ -3,3 +3,5 @@ git Clone command
 just write --> git clone <repo name which i want to copy/clone>
 
 Hey i want to create a branch
+
+lets create another branch but merge it with main branch
